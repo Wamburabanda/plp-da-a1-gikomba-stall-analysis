@@ -12,7 +12,9 @@ Wanjiku operates a fresh produce stall in Gikomba Market and wants to understand
 ## How to Run
 Open the notebook in Google Colab using the link below:
 
-🔗[Open in colab]
+🔗[Open in colab](https://colab.research.google.com/drive/1UDQLtnL_F4Gq6etvMa86WVFueigT6qQr
+)
+
 
 ---
 ## Top Findings
